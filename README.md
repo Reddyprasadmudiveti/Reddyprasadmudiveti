@@ -4,7 +4,7 @@ I'm a full stack developer
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudiveti-reddy-prasad-0a0289298) [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/+Sj1AjG_gieQ4NTA1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudiveti-reddy-prasad-0a0289298) [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=telegram&logoColor=white)](https://t.me/+Sj1AjG_gieQ4NTA1) 
 
 # 💻 Tech Stack:
 
